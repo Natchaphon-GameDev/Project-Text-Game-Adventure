@@ -1,0 +1,6 @@
+D:\Code Rider\Final_Project\Final_Project\bin\Debug\Final_Project.exe
+D:\Code Rider\Final_Project\Final_Project\bin\Debug\Final_Project.pdb
+D:\Code Rider\Final_Project\Final_Project\obj\Debug\Final_Project.csprojAssemblyReference.cache
+D:\Code Rider\Final_Project\Final_Project\obj\Debug\Final_Project.csproj.CoreCompileInputs.cache
+D:\Code Rider\Final_Project\Final_Project\obj\Debug\Final_Project.exe
+D:\Code Rider\Final_Project\Final_Project\obj\Debug\Final_Project.pdb
